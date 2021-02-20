@@ -470,7 +470,7 @@ article time {
   }
 
   .slides figure img, .slides figure.cover img {
-    max-height: auto;
+    max-height: inherit;
     position: relative;
     z-index: 1;
     width: auto;
